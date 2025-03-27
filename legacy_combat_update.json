@@ -1,0 +1,8 @@
+{
+  "modid": "legacy_combat",
+  "name": "Legacy Combat",
+  "version": "1.0",
+  "update": "https://github.com/YourUsername/YourModRepo/releases/tag/v1.0",
+  "download": "https://github.com/YourUsername/YourModRepo/releases/download/v1.0/legacy_combat-1.0.jar",
+  "required": false
+}
